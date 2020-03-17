@@ -1,4 +1,4 @@
-# MachineLearning
+# iNeuron Artefacts
 Assignments for iNeuron
 
 
