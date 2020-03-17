@@ -20,3 +20,4 @@ Example - to install python-TensorFlow1 combination and some other libraries lik
 6. Now run following code to check if tensorflow 1.15 have been installed
 
 
+#The Assignment folders contains the Assignments that were completed
