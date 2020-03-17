@@ -12,7 +12,7 @@ Example - to install python-TensorFlow1 combination and some other libraries lik
 3. CD into the folder hwere you have downloaded with_tf1.yml file
 4. now run following command
     
-    `conda env create --file with_f1.yml`
+    `conda env create --file with_tf1.yml`
     
 5. Once finished, activate environment
     `conda activate with_tf1`
