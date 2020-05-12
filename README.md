@@ -1,4 +1,4 @@
-# iNeuron Artefacts
+# Artefacts
 Assignments for iNeuron
 
 
